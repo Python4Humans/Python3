@@ -50,7 +50,7 @@ print('this is what appears on your console')
 
 example_1 = len(my_string_one) # Output: 16 (Notice Python also does not count the ['] String brackets)
 
-# Strings have positional memory that Python can choose with an Integer.
+# Strings support indexing, which just means that you can 'ask' for the character at a certain position.
 
 example_1a = my_string_one[0] # Output: 't'
 
