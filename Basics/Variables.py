@@ -6,14 +6,14 @@ A place for all variable data
 # The most common question I always get when people see:
 x = 0
 y = 1
-xy = x+y
-yx = y+x
+xy = x + y
+yx = y + x
 # Is how do you know that x = 0 ...?
 # The magic is we don't, it could have been:
 Work = 0
 Sucks = 1
-WorkSucks = Work+Sucks
-SucksWork = Sucks+Work
+WorkSucks = Work + Sucks
+SucksWork = Sucks + Work
 # Presto! We name our own variables whatever we choose.
 # No one will ever be able to care unless they see the code base.
 # Variable names do not show in production / execution. Only their values.
