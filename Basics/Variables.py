@@ -1,33 +1,33 @@
 """
-A Place For All Variable Data
+A place for all variable data
 """
 
-# A Variable Is The Main Data Container That Most Programming Languages Use.
-# Most Common Question I Always Get When People See:
+# A variable is the main data container that most programming languages use.
+# Most common question I always get when people see:
 x = 0
 y = 1
 xy = x+y
 yx = y+x
-# Is How Do You Know That x = 0....
-# The Magic Is We Don't It Could Have Been:
+# Is how do you know that x = 0....
+# The magic is we don't it could have been:
 Work = 0
 Sucks = 1
 WorkSucks = Work+Sucks
 SucksWork = Sucks+Work
-# Presto! We Name Our Own Variables What Ever We Choose.
-# No One Will Ever Be Able To Care Unless They See The Code Base
-# Variable Names Do Not Show In Production / Execution. Only Their Values.
+# Presto! We name our own variables what ever we choose.
+# No one will ever be able to care unless they see the code base
+# Variable names do not show in production / execution. Only their values.
 
-# Variables Can Contain Anything Some But Not All Examples:
+# Variables can contain anything some but not all examples:
 
 string = 'I\'m A Real String!'
 number = 0
 boolean = True
 none = None
 
-# Variables Should Never Be The Same As Keywords As In list,hex,dict,if,elif,else,for
-# It's Good Practice To Uppercase All Variables That Will Stay The Same Throughout Execution
+# Variables should never be the same as keywords as in list,hex,dict,if,elif,else,for
+# It's dood practice to uppercase all variables that will stay the same throughout execution
 # Example:
 PROGRAM_NAME = 'Variables.py'
-# In The Functions Area [os,sys] Both Have Unique Ways Of Grabbing This Files Name 
-# This Becomes Useful Incase It Is Changed By You || A User.
+# In the functions area [os,sys] both have unique ways of grabbing this files name 
+# This becomes useful incase it is changed by you || a user.
