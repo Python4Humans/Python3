@@ -1,6 +1,6 @@
-'''
- A Place For All Variable Data
- '''
+"""
+A Place For All Variable Data
+"""
 
  # A Variable Is The Main Data Container That Most Programming Languages Use.
  # Most Common Question I Always Get When People See:
