@@ -25,9 +25,11 @@ number = 0
 boolean = True
 none = None
 
-# Variables should never be the same as keywords as in list,hex,dict,if,elif,else,for
-# It's good practice to uppercase all variables that will stay the same throughout execution
+# Variables can not be the same as keywords as in if, elif, else, for, etc.
+# Variables should never have the same name as builtin functions list, hex, dict, etc.
+# Variables containing multiple words are usually written using snakecase (separate words by an underscore).
+# It's good practice to uppercase all variables that will stay the same throughout execution.
 # Example:
 PROGRAM_NAME = 'Variables.py'
-# In the functions area [os,sys] both have unique ways of grabbing this files name. 
-# This becomes useful incase it is changed by you || a user.
+# In the functions area [os,sys] both have unique ways of grabbing this file's name. 
+# This becomes useful incase it is changed by you, a user.
