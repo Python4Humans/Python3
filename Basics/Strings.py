@@ -21,7 +21,9 @@ my_string_two = "this also is a string"
 
 example_0 = 'This String Is Skrypt\'s'
 
-# Notice the [\] which escapes our first ['] and tells Python it is now a part of the expression not statement.
+# Notice the [\] which escapes our first ['] and tells Python it is now a part of the expression not statement,
+# this just means that it tells python that the ['] is taken at the literal character ['] and not a delimiter for Python to know when 
+# the String ends.
 # This also works:
 
 example_0a = "This String Is Skrypt's" # Notice no [\] needed
