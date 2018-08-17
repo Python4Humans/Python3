@@ -54,14 +54,14 @@ example_1 = len(my_string_one) # Output: 16 (Notice Python also does not count t
 
 example_1a = my_string_one[0] # Output: 't'
 
-# You may also ask Python for a portion of a String using [:].
+# You may also ask Python for a portion of a String using [:], this is called 'slicing'.
 # Example [INT:]
-# The below example will return the String atarting at the 1 Position 'his is a string'.
+# The below example will return the String atarting at the position 1: 'his is a string'.
 
 example_1b = my_string_one[1:]
 
-# The below example will return the portion starting at the 2 postion and ending at the 4 position.
-# Notice how we collect at position 2 but drop at Position 3, 4 is left out.
+# The below example will return the portion starting at the postion 2 and ending at the position 4.
+# Notice how we collect the character at position 2 but stop at position 3, position 4 is left out.
 
 example_1c = my_string_one[2:4] # Output: 'is'
 
