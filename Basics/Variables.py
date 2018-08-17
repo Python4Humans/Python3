@@ -2,7 +2,7 @@
 A place for all variable data
 """
 
-# A variable is the main data container that most programming languages use.
+# A variable is the main data container that all programming languages use.
 # Most common question I always get when people see:
 x = 0
 y = 1
