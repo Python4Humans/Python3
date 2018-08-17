@@ -65,11 +65,12 @@ example_1b = my_string_one[1:]
 
 example_1c = my_string_one[2:4] # Output: 'is'
 
-# To reverse a String the Pythonic term is [::-1] on the end of any String expression.
+# To reverse a String the Pythonic term is either [::-1] on the end of any String expression, or the function
+# reversed().
 
 example_2 = 'normal string'
 example_2a = example_2[::-1] # Output: 'gnirts lamron'
-example_2b = example_2[2:5][::-1] # Output: 'amr'
+example_2b = example_2[2:5:-1] # Output: 'amr'
 
 # Strings can be added together with the '+' operator.
 
