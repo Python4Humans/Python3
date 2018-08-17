@@ -4,7 +4,7 @@ This Is The Strings Section.
 
 # The objects holding the Strings are from the [Variable] section.
 # If you do NOT understand what a variable is please head over to basics/Variables.py then return.
-# A String is anything interpreted to be read.
+# A String is just a succession of characters.
 
 STRING_CASE_ONE = ''
 STRING_CASE_TWO = ""
