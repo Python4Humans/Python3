@@ -47,7 +47,6 @@ example_0ba = 'Vivian Reads "Strings" As The Title Of This Script'
 print('this is what appears on your console')
 
 # First useful function for Strings is len(), used to get the length of a String object (Other objects too).
-# Normally Python would start at 0 with counting but this isn't the case here.
 
 example_1 = len(my_string_one) # Output: 16 (Notice Python also does not count the ['] String brackets)
 
