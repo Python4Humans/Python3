@@ -56,6 +56,11 @@ example_3c = 'World'
 example_3d = example_3a+example_3b+example_3c # Output: 'Hello World'
 # Alternativly
 example_3e = 'Hello'+' '+example_3c # Output: 'Hello World'
-
+example_3 += example_3a[0] # Output: example_3 = 'H'
+# Python Has Built In Methods For Strings Like .upper(), .lower(), .title()
+example_4 = 'our string'
+example_4.upper() # Output: 'OUR STRING'
+example_4.lower() # Output: 'our string'
+example_4.title() # Output: 'Our String'
 
 
