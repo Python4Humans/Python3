@@ -1,6 +1,6 @@
 '''
- This Is The Strings Section.
- '''
+This Is The Strings Section.
+'''
 
 # The Objects Holding The Strings Are From The [Variable] Section
 # If You Do NOT Understand What A Variable Is Please Head Over To Basics/Variables.py Then Return.
